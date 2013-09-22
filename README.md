@@ -6,17 +6,16 @@ RigidChipsのためのコンポーネントのドライバつめあわせ(要Equ
 ##TCS_typeR.lua
 競技車両向けトラクションコントロールシステム  
 減算方式で出力を調整する
-
+SorceressR530に搭載  
 
 ##ABS_typeR.lua
 競技車両向けアンチブレーキロックシステム  
 減算方式で出力を調整する
-
+SorceressR530に搭載  
 
 ##CA01.lua
 カメラモジュール  
 幽体離脱でどこまでも
-
 
 ##AE10.lua
 trit 航空機用発動機 trit_Component_AE10 "Radiata" Manual (Ver.Equa)
