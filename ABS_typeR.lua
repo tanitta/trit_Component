@@ -16,7 +16,7 @@ namespace "trit_Component"{
 		:body(
 			function(self, vel, angvel )
 				self.tp = angvel/vel
-				self.tp = -vel +angvel * self.r
+				self.tp = -vel +angvel * 0.3*1.5
 
 			end
 		);
